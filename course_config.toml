@@ -1,0 +1,288 @@
+course = 'mooc-programming-21'
+[exercises.part03-01_print_numbers]
+id = 135347
+checksum = 'ef5908aa85bf63bd226ee4c8dcfe2adc'
+
+[exercises.part03-02_countdown]
+id = 135369
+checksum = '01b73d699c925771f4d6ed3cb9c1b389'
+
+[exercises.part03-03_numbers]
+id = 135357
+checksum = '3b12a822132a1a7579ae861f7a6f8afc'
+
+[exercises.part03-04_powers_of_two]
+id = 135359
+checksum = '8dd5d07ebdc5440a071cd080cc0f3cb0'
+
+[exercises.part03-05_powers_of_base_n]
+id = 135349
+checksum = '56bc4499356a06e748134e3b648de3fc'
+
+[exercises.part03-06_consecutive_sum_v1]
+id = 135362
+checksum = 'f15efc48bd1e0f7677dc2dfb211f5ef1'
+
+[exercises.part03-07_consecutive_sum_v2]
+id = 135356
+checksum = 'a806f9d07e3d5f750bb30994d2464461'
+
+[exercises.part03-08_string_multiplied]
+id = 135394
+checksum = '2ba51757c1b05591c92715fd70957f1e'
+
+[exercises.part03-09_longer_string]
+id = 135388
+checksum = 'c7695e4ae2a8f6130ae567712818d8f1'
+
+[exercises.part03-10_end_to_beginning]
+id = 135401
+checksum = '5dee0d67c50f90306a8a9496b17f6396'
+
+[exercises.part03-11_second_and_second_to_last]
+id = 135379
+checksum = '366fa5842777e90474e165c54b263c34'
+
+[exercises.part03-12_line_of_hashes]
+id = 135383
+checksum = '20df7a55b7db28d0cfa8943c39093403'
+
+[exercises.part03-13_rectangle_of_hashes]
+id = 135386
+checksum = '079c454b453faee45414e166515166a9'
+
+[exercises.part03-14_underlining]
+id = 135390
+checksum = '208dbca3206494876dbac41bbcf2358d'
+
+[exercises.part03-15_right_aligned]
+id = 135397
+checksum = 'bccf171089fbd5aee27081977a872caf'
+
+[exercises.part03-16_framed_word]
+id = 135392
+checksum = '692821b5efa80fd21d71692aac62c6ce'
+
+[exercises.part03-17_substrings_part_1]
+id = 136383
+checksum = '3a2b1f30fb570e0ca10ebff467ee2de9'
+
+[exercises.part03-18_substrings_part_2]
+id = 136382
+checksum = 'b33219ba0a2c40aa501e2bee2ac8781b'
+
+[exercises.part03-19_does_it_contain_vowels]
+id = 135381
+checksum = '2aeec28302ae6e08cf618a02917fe79b'
+
+[exercises.part03-20_find_first_substring]
+id = 135387
+checksum = '77c5a31e613c92bf79e17192d8448662'
+
+[exercises.part03-21_find_all_substrings]
+id = 135378
+checksum = 'a8695952d4aa57b56e3088236ebccfc4'
+
+[exercises.part03-22_second_occurrence]
+id = 135385
+checksum = '019839504f03b3affc45e1edafe586ac'
+
+[exercises.part03-23_multiplication]
+id = 135412
+checksum = 'bb53f21f38043144f456f904e94095f7'
+
+[exercises.part03-24_first_letters_of_words]
+id = 135409
+checksum = 'a1fe43ab182d00257fdeb573a77722e1'
+
+[exercises.part03-25_factorial]
+id = 135408
+checksum = '18c3e51694800c2463265ce4313c0af0'
+
+[exercises.part03-26_flip_the_pairs]
+id = 135404
+checksum = '92850b9885f7ef827cf08b9d2295a84f'
+
+[exercises.part03-27_taking_turns]
+id = 135406
+checksum = '7509fd1c150da6984132b1b20ea5364e'
+
+[exercises.part03-28_seven_brothers]
+id = 135410
+checksum = '4185db45ced7d9b39daac61d82370bdb'
+
+[exercises.part03-29_first_character]
+id = 135413
+checksum = '6fb75a3c20aa6ed5bd23ccd2cd8e4a09'
+
+[exercises.part03-30_mean]
+id = 135411
+checksum = '549f843474124bad3d69eae53b6d6a66'
+
+[exercises.part03-31_print_many_times]
+id = 135405
+checksum = '99761c8f9100da65f03495a5b78349c2'
+
+[exercises.part03-32_square_of_hashes]
+id = 135403
+checksum = '87900e89c25159cc6258640508cf9113'
+
+[exercises.part03-33_chessboard]
+id = 135402
+checksum = '0f0856c78eacadfc24411c7dec04b1e2'
+
+[exercises.part03-34_word_squared]
+id = 135407
+checksum = '7c622c6eb7cf3f9e03d9bfbee9b7fd5b'
+
+[exercises.part04-01_hello_visual_studio_code]
+id = 135437
+checksum = '6ff5110c514df73e340d577cb29d6f8a'
+
+[exercises.part04-02_line]
+id = 135478
+checksum = '88236ca84b809b20ecbd32cea1de979d'
+
+[exercises.part04-03_box_of_hashes]
+id = 135466
+checksum = '0174f54fd72a2d9a6bc06773bc9d3871'
+
+[exercises.part04-04_square_of_hashes]
+id = 135454
+checksum = '50d51c78fb334315f0301dcbee1307df'
+
+[exercises.part04-05_square]
+id = 135468
+checksum = '6b8656bfef484459c450365d997fd6ba'
+
+[exercises.part04-06_triangle]
+id = 135487
+checksum = '7a62b68218baa828e31121fb63cab84e'
+
+[exercises.part04-07_shape]
+id = 135462
+checksum = '22fbaba97f9e9dd829afdd27d43b0733'
+
+[exercises.part04-08_spruce]
+id = 135485
+checksum = '0a9bb998993876c8f8c3a635ef3e9989'
+
+[exercises.part04-09_greatest_number]
+id = 135467
+checksum = '7fe6699b464c565f7f0fec0aa5dd416e'
+
+[exercises.part04-10_same_characters]
+id = 135486
+checksum = 'e02324d5fc76f1334317989e8661c024'
+
+[exercises.part04-11_first_second_last]
+id = 135457
+checksum = 'e64148d015fd10e2e77f4ef6bd323963'
+
+[exercises.part04-12_change_value_of_item]
+id = 135494
+checksum = 'ed0533ded15c0500985c53ba8f475476'
+
+[exercises.part04-13_add_items_to_list]
+id = 135490
+checksum = 'e96b35a96d9dd15c69fe16f27cc981d8'
+
+[exercises.part04-14_addition_and_removal]
+id = 135502
+checksum = 'e5441f69575875a97a73551477c9cc35'
+
+[exercises.part04-15_same_word_twice]
+id = 140452
+checksum = 'ab3143594a6c3d0e434105907ef5d521'
+
+[exercises.part04-16_list_twice]
+id = 135497
+checksum = '8ad452b7f3c8f996a9812c19867ff444'
+
+[exercises.part04-17_length_of_list]
+id = 135503
+checksum = '1d5db365a24bc8a1a5b74cc69d51c78d'
+
+[exercises.part04-18_mean]
+id = 135507
+checksum = '5f04046ac4127c762a2311f3775b5b7b'
+
+[exercises.part04-19_range_of_list]
+id = 135505
+checksum = 'c13aff81542e61f6f12e040abbfa122a'
+
+[exercises.part04-20_star_studded]
+id = 135499
+checksum = '67852906d85e838266a9fb3c97ab03ef'
+
+[exercises.part04-21_negative_to_positive]
+id = 135498
+checksum = '37ae07140e22d693d7402096e13fb3ea'
+
+[exercises.part04-22_list_of_stars]
+id = 135496
+checksum = 'ead218c0a22035233fe9184cf5096da5'
+
+[exercises.part04-23_anagrams]
+id = 135492
+checksum = 'c94b8ffbcbef94c6f9c0c90105eca072'
+
+[exercises.part04-24_palindromes]
+id = 135491
+checksum = 'a3a52878cb8a56124e6aff845a9f3af1'
+
+[exercises.part04-25_sum_of_positives]
+id = 135506
+checksum = 'c927f1d29fed4befceec4f6362b40986'
+
+[exercises.part04-26_even_numbers]
+id = 135501
+checksum = 'fb0bac4e57a3d8c84afe70d5d096c9d2'
+
+[exercises.part04-27_sum_of_lists]
+id = 135504
+checksum = '6a66687142cb94cf7873869a0a3b5e46'
+
+[exercises.part04-28_distinct_numbers]
+id = 135495
+checksum = '0fc65a11575a7fd6c206af23db9223ed'
+
+[exercises.part04-29_length_of_longest]
+id = 135489
+checksum = 'd6dfc150fd8f324b8c4f878228bd968a'
+
+[exercises.part04-30_shortest_in_list]
+id = 135500
+checksum = '1f927eeee8cdc97fd2c9baf3f05244fb'
+
+[exercises.part04-31_all_longest_in_list]
+id = 135493
+checksum = '8553634a78da91a882b2d6c1fd12d0cc'
+
+[exercises.part04-32_integers_to_strings]
+id = 135513
+checksum = '032add31aaa08e0556585d0419849af9'
+
+[exercises.part04-33_everything_reversed]
+id = 135509
+checksum = '0dc8ff90d2b273e099f456476962b27c'
+
+[exercises.part04-34_most_common_character]
+id = 135511
+checksum = '7ea01e38b0e5ec5416ccc0368af6aa83'
+
+[exercises.part04-35_no_vowels_allowed]
+id = 142847
+checksum = 'fb0488c675fd2aa4a20dcf8d19643aea'
+
+[exercises.part04-36_no_shouting_allowed]
+id = 142846
+checksum = '97bc3ce169f8ef1c56083ef79a99edbc'
+
+[exercises.part04-37_neighbours_in_list]
+id = 135510
+checksum = 'f0be3348861d51860ad1657daeee753b'
+
+[exercises.part04-38_grade_statistics]
+id = 135514
+checksum = 'd11053e44a1b9105c0ba7e4e8f7a8b39'
